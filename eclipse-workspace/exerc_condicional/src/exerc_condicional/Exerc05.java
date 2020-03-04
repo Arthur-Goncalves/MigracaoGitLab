@@ -28,6 +28,8 @@ public class Exerc05 {
 			total = quantidade * 1.5;
 		}
 		
+		//TESTE DE COMMIT NO GITLAB
+		
 		System.out.printf("Total: R$ %.2f%n", total);
 		
 		sc.close();		
