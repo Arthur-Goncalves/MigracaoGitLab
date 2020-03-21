@@ -1,0 +1,22 @@
+a:link{
+    font-size: xx-large;
+}
+a:visited{
+    color: hotpink;
+}
+a:hover{
+    border: 1px solid black;
+}
+a:active{
+    color: green;
+}
+table, th, td{
+    margin: 1em 0 0 0;
+    padding: .5em;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th{
+    background-color: gray;
+    color: white;
+    }
