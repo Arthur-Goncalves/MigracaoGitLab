@@ -5,7 +5,7 @@ function imprimirSoma(a, b) {
 }
 
 imprimirSoma(2, 3)
-imprimirSoma(2) // será undefined
+imprimirSoma(2) // será undefined NaN
 imprimirSoma(2, 10, 4, 5, 6, 7, 8)
 
 // função retonará valor
