@@ -22,6 +22,4 @@ public class Exerc03 {
 	    sc.close();
  
 	}
-	
-
 }
