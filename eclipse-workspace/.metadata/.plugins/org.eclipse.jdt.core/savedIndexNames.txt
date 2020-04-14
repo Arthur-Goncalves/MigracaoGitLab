@@ -1,6 +1,4 @@
-INDEX VERSION 1.131+C:\Temp\ws-eclipse\.metadata\.plugins\org.eclipse.jdt.core
-894393997.index
-1671692264.index
-3510846143.index
-2934705294.index
+INDEX VERSION 1.131+C:\Temp\arthur-estudos\eclipse-workspace\.metadata\.plugins\org.eclipse.jdt.core
 2009382433.index
+894393997.index
+2934705294.index
