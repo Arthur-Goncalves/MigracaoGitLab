@@ -22,6 +22,7 @@ public class Exerc05 {
 			total = quantidade * 2.0;
 		} else {
 			total = quantidade * 1.5;
+			
 		}
 
 		// TESTE DE COMMIT NO GITLAB
